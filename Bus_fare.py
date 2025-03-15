@@ -27,7 +27,7 @@ class Bus(Vehicle):
         print("Total fees: ", self.Maintencecharge+self.Farecharge)
 
 
-sm= Bus("Stagecoach",600,10, 600000, "Mercedes", 2 ,"Black")
+sm= Bus("Stagecoach",10,8, 50, "Mercedes", 2 ,"Black")
 sm.printInfoBus()
 
         
